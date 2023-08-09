@@ -8,15 +8,15 @@
   },
   
     "/api/Doctor":
-    *************
+
     "/api/Doctor/{Name}"
-     *************
+
     "/api/Doctor/{Id}"
-    *************
+
     "/api/Doctor/Pages"
-    *************
+
     "/api/Doctor/district"
-    *************
+
     "/api/Doctor/Cabinet"
     "/api/Doctor/Specialization"
     "/api/Patients"
