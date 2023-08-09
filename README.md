@@ -6,7 +6,7 @@
     "title": "Medicine.API",
     "version": "1.0"
   },
-    *************
+  
     "/api/Doctor":
     *************
     "/api/Doctor/{Name}"
