@@ -18,9 +18,15 @@
     "/api/Doctor/district"
 
     "/api/Doctor/Cabinet"
+    
     "/api/Doctor/Specialization"
+    
     "/api/Patients"
+    
     "/api/Patients/{Name}"
+    
     "/api/Patients/{Id}"
+    
     "/api/Patients/Pages"
+    
     "/api/Patients/district"
