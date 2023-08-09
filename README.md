@@ -7,7 +7,9 @@
     "version": "1.0"
   },
     "/api/Doctor": 
+    ---------
     "/api/Doctor/{Name}" 
+     ---------
     "/api/Doctor/{Id}"
     "/api/Doctor/Pages"
     "/api/Doctor/district"
